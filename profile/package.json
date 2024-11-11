@@ -1,0 +1,7 @@
+{
+    "scripts": {
+      "sass:watch": "sass --watch styles.scss:styles.css",
+      "start": "live-server"
+    }
+  }
+  
